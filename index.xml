@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sean&#39;s Blog</title>
+    <title>Sean</title>
     <link>https://smwade.github.io/</link>
-    <description>Recent content on Sean&#39;s Blog</description>
+    <description>Recent content on Sean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Jun 2018 16:55:39 +0100</lastBuildDate>
