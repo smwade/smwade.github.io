@@ -3,12 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://smwade.github.io/posts/second/</loc>
+    <lastmod>2018-06-28T16:55:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smwade.github.io/posts/my-first-post/</loc>
+    <lastmod>2018-06-28T16:20:37+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://smwade.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://smwade.github.io/posts/</loc>
+    <lastmod>2018-06-28T16:55:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://smwade.github.io/</loc>
+    <lastmod>2018-06-28T16:55:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
