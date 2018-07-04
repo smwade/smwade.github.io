@@ -35,7 +35,8 @@
       <pubDate>Thu, 28 Jun 2018 16:20:37 +0100</pubDate>
       
       <guid>https://smwade.github.io/posts/full_stack/</guid>
-      <description>Docker Machine docker-machine ls
+      <description>A variety of notes for my full stack.
+Docker Machine docker-machine ls
 docker-machine ssh &amp;lt;MACHINE-NAME&amp;gt;
 docker-machine ip &amp;lt;MACHINE-NAME&amp;gt;
 Basic workflow:
@@ -46,8 +47,7 @@ docker-compose -f docker-compose.yml up -d
 Stop the containers:
 docker-compose -f docker-compose.yml stop
 Run a commant in container
-docker-compose -f docker-compose.yml run users &amp;lt;TERMINAL-COMMAND&amp;gt;
-Docker docker exec -ti users-db psql -U postgres -W</description>
+docker-compose -f docker-compose.yml run users &amp;lt;TERMINAL-COMMAND&amp;gt;</description>
     </item>
     
     <item>
