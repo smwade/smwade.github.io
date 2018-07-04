@@ -21,6 +21,37 @@
     </item>
     
     <item>
+      <title>Cape Town</title>
+      <link>https://smwade.github.io/posts/ix_cape_town/</link>
+      <pubDate>Thu, 28 Jun 2018 16:20:37 +0100</pubDate>
+      
+      <guid>https://smwade.github.io/posts/ix_cape_town/</guid>
+      <description> iX Cape Town </description>
+    </item>
+    
+    <item>
+      <title>Full Stack Notes</title>
+      <link>https://smwade.github.io/posts/full_stack/</link>
+      <pubDate>Thu, 28 Jun 2018 16:20:37 +0100</pubDate>
+      
+      <guid>https://smwade.github.io/posts/full_stack/</guid>
+      <description>Full Stack Notes ###Docker Machine
+docker-machine ls
+docker-machine ssh &amp;lt;MACHINE-NAME&amp;gt;
+docker-machine ip &amp;lt;MACHINE-NAME&amp;gt;
+Basic workflow:
+docker-machine start &amp;lt;MACHINE-NAME&amp;gt; docker-machine env &amp;lt;MACHINE-NAME&amp;gt; eval $(docker-machine env &amp;lt;MACHINE-NAME&amp;gt;) docker-compose -f docker-compose-dev.yml up -d --build  Docker Compose Build the images:
+docker-compose -f docker-compose-dev.yml build
+Run the containers:
+docker-compose -f docker-compose.yml up -d
+Stop the containers:
+docker-compose -f docker-compose.yml stop
+Run a commant in container
+docker-compose -f docker-compose.yml run users &amp;lt;TERMINAL-COMMAND&amp;gt;
+Docker docker exec -ti users-db psql -U postgres -W</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>https://smwade.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 28 Jun 2018 16:20:37 +0100</pubDate>
